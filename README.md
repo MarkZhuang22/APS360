@@ -60,6 +60,5 @@ This repository is part of the APS360 course offered at the University of Toront
 
 For any questions or concerns regarding the labs, please open an issue on this repository.
 
----
-
-Enjoy the labs and happy learning!
+## Support
+If you find this repository helpful, please give it a star and share it with others who might benefit from it.
